@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+:root {
+    --brand-color-logo: #000000;
+    --brand-color-blue: #2196F3;
+    --brand-color-text1:#212121;
+    --brand-color-text2:#757575;
+    --brand-color-light:#FFFFFF;
+}
+h1,
+h3 {
+    font-family: 'Raleway', sans-serif;
+    color: var(--brand-color-logo);
+}
+.web {
+    color: var(--brand-color-blue);
+}
